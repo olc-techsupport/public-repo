@@ -14,6 +14,7 @@ To see how this looks to the public, do the following:
 - Copy the URL <https://olc-techsupport.github.io/public-repo/>
 - Open a new Incognito Window (Chrome) or Private Window (Firefox/Safari).
 - Paste the URL into the address bar and press Enter.
+- Click on the URL <https://github.com/olc-techsupport/public-repo> to see it is hidden.
 
 Learn more about GitHub Pages:
 
